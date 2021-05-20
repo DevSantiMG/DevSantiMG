@@ -1,6 +1,6 @@
 # SantiMG
 
-- 🇦🇷 I'm from Argentina
+- 🇦🇷  I'm from Argentina
 - 💻 I'm currently learning Java
 - 😴 I currently make shit when I'm boring
 
