@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SantiMG
+# 👋 Hi, I'm Santiago
 
 - 🇦🇷  I'm from Argentina
 - 💻 I'm currently learning Java
