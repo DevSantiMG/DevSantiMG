@@ -1,4 +1,4 @@
-# SantiMG
+# 👋 Hi, I'm SantiMG
 
 - 🇦🇷  I'm from Argentina
 - 💻 I'm currently learning Java
